@@ -1,8 +1,20 @@
 [
   {
+    "full_name": "Atmosphere-NX/Atmosphere",
+    "stargazers_count": 9640,
+    "open_issues_count": 25,
+    "forks_count": 920
+  },
+  {
+    "full_name": "strapi/strapi",
+    "stargazers_count": 47376,
+    "open_issues_count": 387,
+    "forks_count": 5793
+  },
+  {
     "full_name": "symfony/symfony",
     "stargazers_count": 27380,
-    "open_issues_count": 627,
+    "open_issues_count": 628,
     "forks_count": 8802
   },
   {
