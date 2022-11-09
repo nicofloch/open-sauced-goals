@@ -1,26 +1,26 @@
 [
   {
     "full_name": "Atmosphere-NX/Atmosphere",
-    "stargazers_count": 10043,
+    "stargazers_count": 10041,
     "open_issues_count": 32,
     "forks_count": 948
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 49448,
-    "open_issues_count": 404,
-    "forks_count": 6006
+    "stargazers_count": 49459,
+    "open_issues_count": 407,
+    "forks_count": 6008
   },
   {
     "full_name": "symfony/symfony",
-    "stargazers_count": 27592,
-    "open_issues_count": 691,
-    "forks_count": 8872
+    "stargazers_count": 27598,
+    "open_issues_count": 693,
+    "forks_count": 8876
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 805,
     "open_issues_count": 9,
-    "forks_count": 431
+    "forks_count": 432
   }
 ]
